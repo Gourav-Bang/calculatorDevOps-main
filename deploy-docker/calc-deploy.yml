@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: 710gourav / calculatordevopsmain
+        name: 710gourav/calculatordevopsmain:tagname
         source: pull
