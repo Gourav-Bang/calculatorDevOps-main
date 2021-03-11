@@ -1,2 +1,2 @@
 [ubuntu]
-192.168.43.53 ansible_user=grv 
+192.168.43.53 ansible_user=grv ansible_sudo_pass=bang
