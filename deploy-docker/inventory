@@ -1,2 +1,2 @@
 [ubuntu]
-192.168.43.53 ansible_ssh_user=grv remote_user=grv ask_pass=true
+192.168.43.53 ansible_user=grv 
